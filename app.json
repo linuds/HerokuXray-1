@@ -1,5 +1,5 @@
 {
-    "name": "XrayHeroku-1",
+    "name": "HerokuXray",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
